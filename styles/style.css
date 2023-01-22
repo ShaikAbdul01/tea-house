@@ -1,0 +1,43 @@
+body{
+    font-family: 'Manrope', sans-serif;
+}
+.design-btn{
+    padding: 10px;
+    background: linear-gradient(270deg, #ff0000 0%, #FF8938 100%);
+    color:white ;
+    border-radius: 10px; 
+    border: none;
+}
+.design-btn:hover{
+    padding: 10px;
+    color:white ;
+    border-radius: 10px; 
+    border-color: #FF8938;
+}
+.design-btn1{
+    padding: 10px;
+    background:white  ;
+    color:#ff0000;
+    border-radius: 10px; 
+    border: none;
+    
+
+}
+.web-primary-color{
+    color:#1C1C1C; 
+}
+.web-secondary-color{
+    color:#777777; 
+}
+.web-third-color{
+    color:#F4F4F4; 
+}
+.web-card-gradient{
+    background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+}
+.web-primary-gridient{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+}
+.web-footer-gradient{
+    background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
+}
